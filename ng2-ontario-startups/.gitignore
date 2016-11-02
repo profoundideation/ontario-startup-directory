@@ -31,3 +31,8 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+
+.privates
+/node_modules
+npm-debug.log
+yarn-error.log

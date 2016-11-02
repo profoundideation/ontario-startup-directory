@@ -20,7 +20,7 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
-4me
+/4me
 .privates
 
 # OSX
@@ -48,6 +48,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-node_modules
+/node_modules
 npm-debug.log
 yarn-error.log
