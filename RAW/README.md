@@ -4,6 +4,7 @@
 - Articles
 - Blog
 - Business
+- Co-Working Spaces
 - Pod-cast
 - Resources
 - Websites
@@ -21,6 +22,17 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 ## Blog
 
 ## Business
+
+## Co-Working Spaces
+
+   - [ ] CoMotion on King (Hamilton), 
+   - [ ] Co-work Niagara Co-operative Inc. (St. Catharines), 
+   - [ ] Impact HUB Ottawa (Ottawa) 
+   - [ ] LabB (Brampton), 
+   - [ ] LabTO (Toronto), 
+   - [ ] The Creative Space (Barrie), 
+   - [ ] Offices That Work! (Peterborough) and 
+   - [ ] UnLondon Digital Media Association (London) 
 
 ## Pod-cast
 
