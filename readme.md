@@ -1,8 +1,6 @@
 # The Ontario Startup Directory
 
-This project was created in good faith and with no intention to
-promote or diminish certain organisations, startups, companies or
-individuals in particular.
+This project was created in good faith and with no intention to promote or diminish certain organisations, startups, companies or individuals in particular.
 
 ## Quick TOC (Table of Contents)
 
@@ -17,3 +15,4 @@ individuals in particular.
 * Venture Capital
 * Resources
 * References
+
