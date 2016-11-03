@@ -54,9 +54,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 ## Hackeratons
 
-  - [ ] HACK THE 6: TORONTO’S FIRST CREATIVE HACKATHON. (http://www.6hack.com/)
-  - [ ] Hack the North is the biggest Canadian hackathon being held on September 16-18 at University of Waterloo. (https://hackthenorth.com/)
   - [ ] Electric City Hacks it's at Trent University. (http://2016.echacks.xyz/) 
+  - [ ] HACK THE 6: TORONTO’S FIRST CREATIVE HACKATHON. (http://www.6hack.com/)
+  - [ ] Hack the North is the biggest Canadian hackathon being held on September 16-18 at University of Waterloo. (https://hackthenorth.com/)  
+
+# Meetups
+
+  - [ ] Toronto-Entrepreneurs: Inspire, Network and Connect with Each Other. (http://www.meetup.com/Toronto-Entrepreneurs/)
 
 ## Libraries
 
@@ -95,4 +99,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   - [FaceBook Group] TEPP: Toronto Entrepreneurs of Passion and Purpose (https://www.facebook.com/groups/tepplist/)
   - [FaceBook Group] Toronto Entrepreneurs (https://www.facebook.com/torontoentrepreneur/?fref=ts)
 
-  PS. this is open source, Feel free to add to this list. (Just make a pull request!)
+# Contribute  
+
+  This is open source, Feel free to add to this list. Just make a pull request! (/CONTRIBUTING.md)
