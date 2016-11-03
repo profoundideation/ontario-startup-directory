@@ -1,5 +1,4 @@
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](/CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/profoundideation/ontario-startup-directory/blob/Daniel/RAW/CONTRIBUTING.md)
 
 # Everything about Ontario's Startups:
 
