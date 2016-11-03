@@ -101,4 +101,4 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 # Contribute  
 
-  This is open source, Feel free to add to this list. Just make a pull request! (/CONTRIBUTING.md)
+  This is open source, Feel free to add to this list. Just make a pull request! (https://github.com/profoundideation/ontario-startup-directory/blob/Daniel/RAW/CONTRIBUTING.md)
