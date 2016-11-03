@@ -1,3 +1,6 @@
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](/CONTRIBUTING.md)
+
 # The Ontario Startup Directory
 
 This project was created in good faith and with no intention to promote or diminish certain organisations, startups, companies or individuals in particular.
@@ -16,3 +19,6 @@ This project was created in good faith and with no intention to promote or dimin
 * Resources
 * References
 
+- RAW: List & Notes (https://github.com/profoundideation/ontario-startup-directory/tree/Daniel/RAW) 
+- Source Core: 
+- Live Site: Heroku ** coming soon **

@@ -1,3 +1,6 @@
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](/CONTRIBUTING.md)
+
 # Everything about Ontario's Startups:
 
 - Articles
@@ -57,15 +60,15 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 ## Libraries
 
-  - [ ] Aurora:	aurorapl.ca
-  - [ ] East Gwillimbury:	egpl.ca
-  - [ ] Georgina:	georginalibrary.ca
-  - [ ] King:	kinglibrary.ca
-  - [ ] Markham:	markhampubliclibrary.ca
-  - [ ] Newmarket:	newmarketpl.ca
-  - [ ] Richmond	Hill:	rhpl.richmondhill.on.ca/RHPL/
-  - [ ] Vaughan:	vaughanpl.info/index.php
-  - [ ] Whitchurch-Stouffville:	wsplibrary.ca
+  - [ ] Aurora:	(http://aurorapl.ca)
+  - [ ] East Gwillimbury:	(http://egpl.ca)
+  - [ ] Georgina:	(http://georginalibrary.ca)
+  - [ ] King:	(http://kinglibrary.ca)
+  - [ ] Markham: (http://markhampubliclibrary.ca)
+  - [ ] Newmarket: (http://newmarketpl.ca)
+  - [ ] Richmond Hill: (http://rhpl.richmondhill.on.ca/RHPL/)
+  - [ ] Vaughan: (http://vaughanpl.info/index.php)
+  - [ ] Whitchurch-Stouffville:	(http://wsplibrary.ca)
 
 ## Podcasts
 
@@ -78,6 +81,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 ## Videos
 
   - [ ] Toronto Startup Companies to Watch in 2016 | BIG GAME HUNTERS #025 (https://www.youtube.com/watch?v=FI1u6feRUR0)
+  - [ ] Oculus demos augmented social virtual reality with facial expressions (https://www.facebook.com/techcrunch/videos/10154734619017952/) | (http://tcrn.ch/2dW3qUJ)
+  - [ ] We Asked Entrepreneurs: What makes Toronto great for Startups (https://www.youtube.com/watch?v=6RacYPc4Ij0)
+  - [ ] Toronto Tech Startup (https://www.youtube.com/watch?v=EcyKqr0c16E)
+  - [ ] Forget Silicon Valley, Here Comes Toronto! (https://www.youtube.com/watch?v=-MlOugNhVjA)
 
 ## Websites
 
